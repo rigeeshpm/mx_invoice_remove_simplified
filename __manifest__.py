@@ -1,6 +1,6 @@
 {
     'name': 'Remove Simplified',
-    'version': '19.0.0.1.0',
+    'version': '20.0.0.1.0',
     'category': 'Other',
     'summary': 'Remove Simplified',
     'author': ' ',
